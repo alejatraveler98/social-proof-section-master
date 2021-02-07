@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+    padding:90px 10px 30px;
+    font-weight: 700;
+
+    &__title{
+        color:var(--dark-mangenta);
+    }
+    &__subtitle{
+        color:var(--soft-text-mangenta);
+        font-weight: 400;
+    }
+}
+
+
+.rates {
+    background-color: var(--light-pink);
+    text-align: center;
+}
